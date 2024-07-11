@@ -20,3 +20,4 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 [Search Functionality](Search.md)
 
+[Shuffle Functionality](Shuffle.md)
