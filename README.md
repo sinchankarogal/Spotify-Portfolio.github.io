@@ -14,5 +14,9 @@ Have you ever found yourself endlessly scrolling through your Spotify library, l
 
 Before Spotify’s creation and rise in 2006, accessing and sharing music was tedious and impractical. At the time, music could only be accessed by attaining physical copies, listening to the radio, and pirating online [2]. However, the rise of digital music streaming services like Soundcloud, Pandora, and Spotify completely changed how artists make music and how we listen to it. Through licensing agreements with record labels and artists [3], streaming services offer a seemingly infinite collection of songs that can be accessed anytime, anywhere, and on any device. What separates Spotify from the rest, however, is its innovative use of data. With complex machine-learning techniques, the platform provides users with personalized recommendations and playlists, making it easier to discover new music that aligns with their preferences. Beyond that, they have created new features such as “Spotify Wrapped,” which allows listeners to view their data and history in a captivatingly new way. According to a study done by Statista, such personalized recommendations were the most significant factor in user satisfaction with music streaming services [4]. In essence, Spotify’s rising growth and popularity have disrupted the traditional music industry with artificial intelligence and data at the core of its business model. 
 
+
  
-   
+## Functionalities 
+
+[Search Functionality](Search.md)
+
