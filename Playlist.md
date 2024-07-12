@@ -2,7 +2,11 @@
 
 ## Doubly Linked List 
 
-![alt text](https://www.wikitechy.com/technology/wp-content/uploads/2017/10/doubly-linked-list.gif)
+A doubly linked list can manage Spotify playlists by maintaining the order of songs, allowing efficient insertion and deletion operations, 
+and providing easy navigation through the playlist in both forward and backward directions.
+
+
+![alt text](https://www.equestionanswers.com/c/images/doubly-linked-list.gif)
 
 ### code 
 
@@ -89,3 +93,64 @@ int main() {
 
 ```
 
+
+## Hash Map
+
+A hash map can manage Spotify playlists by enabling fast lookups, additions, and deletions of songs using song IDs as keys, making it
+efficient to quickly access and modify songs in the playlist.
+
+![alt text](https://miro.medium.com/v2/resize:fit:1400/1*8hAoOurJFBfA-w1wKUAqIA.gif)
+
+### code 
+
+```cpp
+#include <iostream>
+#include <unordered_map>
+#include <string>
+
+using namespace std;
+
+// Playlist class managing the hash map
+class PlaylistHashMap {
+public:
+    unordered_map<int, string> songMap;
+
+    // Add a song to the playlist
+    void addSong(string title, int id) {
+        songMap[id] = title;
+    }
+
+    // Remove a song by ID
+    void removeSong(int id) {
+        songMap.erase(id);
+    }
+
+    // Display the playlist
+    void displayPlaylist() {
+        for (const auto& pair : songMap) {
+            cout << "ID: " << pair.first << ", Title: " << pair.second << endl;
+        }
+    }
+};
+
+int main() {
+    PlaylistHashMap playlist;
+
+    // Add songs to the playlist
+    playlist.addSong("Shape of You", 1);
+    playlist.addSong("Blinding Lights", 2);
+    playlist.addSong("Dance Monkey", 3);
+
+    // Display the playlist
+    cout << "Playlist:" << endl;
+    playlist.displayPlaylist();
+
+    // Remove a song
+    playlist.removeSong(1);
+    cout << "Playlist after removing song with ID 1:" << endl;
+    playlist.displayPlaylist();
+
+    return 0;
+}
+
+```
