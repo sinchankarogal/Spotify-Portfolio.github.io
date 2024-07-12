@@ -30,4 +30,6 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 [Top Charts](TopCharts.md)
 
+[Collaborative playlist](Share.md)
+
 
