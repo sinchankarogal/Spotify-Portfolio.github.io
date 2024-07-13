@@ -32,6 +32,8 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 [Collaborative playlist](Share.md)
 
+[Sort Songs in a Playlist](Sort.md)
+
 [Efficient Offline Storage](OfflineStorage.md)
 
 
