@@ -4,7 +4,7 @@
 
 Quick Sort is an efficient sorting algorithm that can be used to sort songs based on different attributes like duration, artist, and title.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhats-your-own-method-for-organizing-songs-in-Spotify&psig=AOvVaw2wcorsgMUd6Z_wJ9d02SR_&ust=1720959796880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi8nvyApIcDFQAAAAAdAAAAABAR)
+![alt text](https://www.cnet.com/a/img/resize/42897897174ace5b7d88bf2ab8a7de2eae276a03/hub/2022/03/11/253590a9-7131-4f48-b10c-d0896d0d7d85/img-3816.jpg?auto=webp&width=768)
 
 ### Code
 
