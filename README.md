@@ -24,6 +24,8 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 [Lyrics Synchronisation](Lyrics.md)
 
+[Song Recommendation](Recommendation.md)
+
 [Lyrics Search](LyricsSearch.md)
 
 [Playlist Management](Playlist.md)
