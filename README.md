@@ -16,26 +16,18 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 
  
-## Functionalities 
 
-[Search Functionality](Search.md)
+## Functionalities 🎵
 
-[Shuffle Functionality](Shuffle.md)
-
-[Lyrics Synchronisation](Lyrics.md)
-
-[Song Recommendation](Recommendation.md)
-
-[Lyrics Search](LyricsSearch.md)
-
-[Playlist Management](Playlist.md)
-
-[Top Charts](TopCharts.md)
-
-[Collaborative playlist](Share.md)
-
-[Sort Songs in a Playlist](Sort.md)
-
-[Efficient Offline Storage](OfflineStorage.md)
+- 🔍 [Search Functionality](Search.md)
+- 🔀 [Shuffle Functionality](Shuffle.md)
+- 🎤 [Lyrics Synchronization](Lyrics.md)
+- 🎧 [Song Recommendation](Recommendation.md)
+- 🔎 [Lyrics Search](LyricsSearch.md)
+- 📋 [Playlist Management](Playlist.md)
+- 📈 [Top Charts](TopCharts.md)
+- 🤝 [Collaborative Playlist](Share.md)
+- 📑 [Sort Songs in a Playlist](Sort.md)
+- 💾 [Efficient Offline Storage](OfflineStorage.md)
 
 
