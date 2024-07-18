@@ -11,3 +11,6 @@
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 theme: minima
+minima:
+  skin: dark
+header_pages:
