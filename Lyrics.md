@@ -1,4 +1,4 @@
-# Lyrics Synchronization 
+<!--# Lyrics Synchronization -->
 
 ## AVL trees 
 AVL trees are used in Spotify for lyric synchronization due to their efficient balanced structure, ensuring \( O(log n) \) operations for quick retrieval and updates of lyric segments based on song playback timestamps. 
