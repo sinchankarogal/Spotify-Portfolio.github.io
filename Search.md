@@ -1,4 +1,3 @@
-# Search
 
 ### Trie 
 A Trie data structure can be effectively used to implement song search functionalities because it allows for quick lookup and autocomplete features based on partial song titles or artist names. This efficiency is crucial for providing a smooth user experience when searching through Spotify’s extensive catalog of songs.
