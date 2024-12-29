@@ -19,7 +19,7 @@ Before Spotify’s creation and rise in 2006, accessing and sharing music was te
 
 ## Functionalities 🎵
 
-- 🔍 [Search](Search.md)
+- 🔍 [Search](./Search.md)
 - 🔀 [Shuffle Functionality](Shuffle.md)
 - 🎤 [Lyrics Synchronization](Lyrics.md)
 - 🎧 [Song Recommendation](Recommendation.md)
