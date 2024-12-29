@@ -1,5 +1,3 @@
-
-
 # Search Functionality
 
 ### Trie 
@@ -191,4 +189,4 @@ int main() {
 }
 
 ```
-# B-Trees 
+
